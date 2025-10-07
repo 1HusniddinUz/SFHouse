@@ -15,7 +15,7 @@ const Footer = () => {
                         <li><Phone s
 
                                    ize={18} /> <a href="tel:+998936882718">+998 93 688 27 18</a></li>
-                        <li><Mail size={18} /> <a href="gmail:manager@sabahfashion.uz" target="_blank" rel="norefferrer">manager@sabahfashion.uz</a></li>
+                        <li><Mail size={18} /> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayitovabarchinoy87@gmail.com&body=Assalomu%20alaykum" target="_blank" rel="norefferrer">sayitovabarchinoy87@gmail.com</a></li>
                     </ul>
                 </div>
 
